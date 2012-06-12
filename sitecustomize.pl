@@ -1,0 +1,1 @@
+/cygdrive/C/strawberry/perl/site/lib/sitecustomize.pl
