@@ -17,7 +17,7 @@ I run this on StrawberryPerl on M$Windoes (7) and Your Mileage May
 Vary.
 
 This repo exists primarily for my own future self to check what I did
-did "way back when" and explain things to myself.
+"way back when" and explain things to myself.
 
 See also http://ophiolite.pbworks.com/w/browse/#view=ViewFolder&param=Perl-fu
 
